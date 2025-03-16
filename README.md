@@ -10,4 +10,12 @@ fingertips
 
 An addition I2C hub and controller is used to run the CircuitPython code needed to translate chords into ascii chars.
 
-![Screenshot](pics/soldered-mask.jpeg)
+![Screenshot](pics/3dasm.jpeg)
+
+![Screenshot](pics/old-softie-thumbs.jpeg)
+
+![Screenshot](pics/stuffed.jpeg)
+
+![Screenshot](pics/stencil.jpeg)
+
+![Screenshot](pics/cnc-laser-pcb.jpeg)
